@@ -70,8 +70,7 @@ Deobrat Jha:-
 Implemented neural networks and the XGBoost model with and without RFE, utilizing ensemble techniques like bagging, stacking, and boosting. The boosting model achieved superior performance with an accuracy of 85.25% and an AUC of 85.48%. Integrated with a Gradio-based UI, allowing users to upload .csv files and get real-time predictions of diabetes status.
 
 Mitesh Kumar Mandal:-
-Implemented Ensemble
-Learning(Stacking, Bagging and Boosting) with 0.99 highest Accuracy in Bagging and integrated with UI. Implmented for both, with and without RFE. Also trained SVM model using different kernels (Linear,Polynomial and RBF) and plotted combined AUC.
+Implemented Ensemble Learning(Stacking, Bagging and Boosting) with 0.99 highest Accuracy in Bagging and integrated with UI. Implmented for both, with and without RFE. Also trained SVM model using different kernels (Linear,Polynomial and RBF) and plotted combined AUC.
 --
 
 ## Contribution Guidelines
