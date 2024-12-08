@@ -55,3 +55,19 @@ Random Forest :
 Neural NetworK and XBoost:
 Decision Tree :
 Ensemble Model and SVC: Team5_Mitesh_242IT020.ipynb
+
+
+## Contribution Guidelines
+We welcome contributions from the community to improve this project! If you'd like to contribute, please follow these steps:
+
+1. **Fork the Repository**:  
+   Click the "Fork" button at the top right of this repository to create a personal copy.
+
+2. **Clone Your Forked Repository**:  
+   Clone your fork to your local machine using the command:
+   ```bash
+   git clone https://github.com/miteshkumarmandal1/eDiaPredict-An-Ensemble-Based-Framework-for-Diabetes-Prediction/
+
+**##License**
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
