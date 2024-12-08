@@ -27,7 +27,7 @@ Preprocessing includes:
 ---
 
 ## Requirements
-- Python 3.8 or later
+- Python 3.10.12
 - Libraries:
   - `pandas`
   - `numpy`
