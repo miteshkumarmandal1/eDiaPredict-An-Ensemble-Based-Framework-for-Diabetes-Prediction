@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 **## Setup Instructions**
 Clone the Repository:
-git clone https://github.com/miteshkumarmandal1/eDiaPredict-An-Ensemble-Based-Framework-for-Diabetes-Prediction
+git clone https://github.com/miteshkumarmandal1/eDiaPredict-An-Ensemble-Based-Framework-for-Diabetes-Prediction.git
 
 Install required libraries:
 pip install -r requirements.txt
@@ -68,7 +68,7 @@ We welcome contributions from the community to improve this project! If you'd li
 2. **Clone Your Forked Repository**:  
    Clone your fork to your local machine using the command:
    ```bash
-   git clone https://github.com/miteshkumarmandal1/eDiaPredict-An-Ensemble-Based-Framework-for-Diabetes-Prediction/
+   git clone https://github.com/miteshkumarmandal1/eDiaPredict-An-Ensemble-Based-Framework-for-Diabetes-Prediction.git
 
 
 ---
