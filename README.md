@@ -16,8 +16,8 @@ This project aims to predict diabetes based on patient data using various machin
 ---
 ## Dataset
 The project uses patient Diet and glucose data. Merge operations on datasets are based on the `SEQN` key. Datasers are available at https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023
-- **Dietary Data**: `DR1TOT_L.xpt
-- **Glucose Data**: `GLU_L.XPT
+- **Dietary Data**: `Dataset/DR1TOT_L.xpt
+- **Glucose Data**: `Dataset/GLU_L.XPT
 
 Preprocessing includes:
 1. Handling missing values
