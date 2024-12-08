@@ -42,6 +42,7 @@ Install dependencies using:
 ```bash
 pip install -r requirements.txt
 
+---
 
 **## Setup Instructions**
 Clone the Repository:
@@ -50,13 +51,14 @@ git clone https://github.com/miteshkumarmandal1/eDiaPredict-An-Ensemble-Based-Fr
 Install required libraries:
 pip install -r requirements.txt
 
+---
 ##Model Training Code Files
 Random Forest :
 Neural NetworK and XBoost:
 Decision Tree :
 Ensemble Model and SVC: Team5_Mitesh_242IT020.ipynb
 
-
+---
 ## Contribution Guidelines
 We welcome contributions from the community to improve this project! If you'd like to contribute, please follow these steps:
 
@@ -68,6 +70,8 @@ We welcome contributions from the community to improve this project! If you'd li
    ```bash
    git clone https://github.com/miteshkumarmandal1/eDiaPredict-An-Ensemble-Based-Framework-for-Diabetes-Prediction/
 
+
+---
 **##License**
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
