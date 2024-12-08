@@ -59,6 +59,25 @@ Decision Tree :
 Ensemble Model and SVC: Team5_Mitesh_242IT020.ipynb
 
 ---
+##Our Individual Contribution:
+Nishant Sahu:-
+Implemented a Decision Tree model using Recursive Feature Elimination (RFE),  without and with PCA (20 components).Developed an ensemble model combining Decision Tree and Neural Network using weighted and voting ensemble methods, achieving accuracies of 0.868 and 0.88, respectively.Successfully integrated the  model into a user interface (UI).
+
+Akash Rohit:-
+Developed and implemented a Random Forest model for Diabetes Prediction, utilizing both approaches with and without Recursive Feature Elimination (RFE) to analyze feature importance and optimize model performance. Achieved an accuracy of 0.7887, demonstrating the robustness and reliability of the model. The solution was seamlessly integrated into a user-friendly interface, enabling real-time predictions and providing an accessible tool for diabetes risk assessment.
+
+Deobrat Jha:-
+Implemented neural networks and the XGBoost model with and without RFE, utilizing ensemble techniques like bagging, stacking, and boosting. The boosting model achieved superior performance with an accuracy of 85.25% and an AUC of 85.48%. Integrated with a Gradio-based UI, allowing users to upload .csv files and get real-time predictions of diabetes status.
+
+Mitesh Kumar Mandal:-
+Implemented Ensemble
+Learning(Stacking, Bagging and Boosting) with 0.99
+highest Accuracy in Bagging and integrated with UI.
+Implmented for both, with and without RFE. Also
+trained SVM model using different kernels (Linear,
+Polynomial and RBF) and plotted combined AUC.
+--
+
 ## Contribution Guidelines
 We welcome contributions from the community to improve this project! If you'd like to contribute, please follow these steps:
 
