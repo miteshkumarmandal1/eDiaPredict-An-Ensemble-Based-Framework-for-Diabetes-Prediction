@@ -53,11 +53,11 @@ pip install -r requirements.txt
 
 ```
 ---
-## Model Training Code Files
-Random Forest :
-Neural NetworK and XBoost:
-Decision Tree :
-Ensemble Model and SVC: Team5_Mitesh_242IT020.ipynb
+## Model Training Code Files:
+1. Random Forest : collab/Team5_Akash_Random_Forest.ipynb
+2. Neural NetworK and XBoost: collab/Team5_Deobrat_NeuralNetworks_XgBoost.ipynb
+3. Decision Tree : coolab/Nishant_decisiontree.ipynb
+4. Ensemble Model and SVC: collab/Team5_Mitesh_242IT020.ipynb
 
 ---
 ## Our Individual Contribution:
@@ -87,6 +87,6 @@ We welcome contributions from the community to improve this project! If you'd li
 
 
 ---
-**##License**
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
