@@ -51,15 +51,16 @@ git clone https://github.com/miteshkumarmandal1/eDiaPredict-An-Ensemble-Based-Fr
 Install required libraries:
 pip install -r requirements.txt
 
+```
 ---
-##Model Training Code Files
+## Model Training Code Files
 Random Forest :
 Neural NetworK and XBoost:
 Decision Tree :
 Ensemble Model and SVC: Team5_Mitesh_242IT020.ipynb
 
 ---
-##Our Individual Contribution:
+## Our Individual Contribution:
 Nishant Sahu:-
 Implemented a Decision Tree model using Recursive Feature Elimination (RFE),  without and with PCA (20 components).Developed an ensemble model combining Decision Tree and Neural Network using weighted and voting ensemble methods, achieving accuracies of 0.868 and 0.88, respectively.Successfully integrated the  model into a user interface (UI).
 
@@ -71,7 +72,7 @@ Implemented neural networks and the XGBoost model with and without RFE, utilizin
 
 Mitesh Kumar Mandal:-
 Implemented Ensemble Learning(Stacking, Bagging and Boosting) with 0.99 highest Accuracy in Bagging and integrated with UI. Implmented for both, with and without RFE. Also trained SVM model using different kernels (Linear,Polynomial and RBF) and plotted combined AUC.
---
+
 
 ## Contribution Guidelines
 We welcome contributions from the community to improve this project! If you'd like to contribute, please follow these steps:
